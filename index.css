@@ -1,0 +1,195 @@
+.menu{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.text {
+  
+ color:white ;
+}
+.search{
+margin-left: 500px;
+}
+
+.text1{
+    margin-left: 540px ;
+  display: flex;
+   
+    
+}
+.text1 p{
+    margin: 10px;
+}
+.red{
+    color: red;
+}
+.card{
+
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 0px;
+    margin-top: 20px;
+    
+
+}
+.cart
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+p{
+    color: black;
+}
+h1{
+    color: black;
+}
+.top{
+   background-color: darkgrey;
+}
+h2,h3,h5,h4{
+    color: black;
+}
+.cardd{ 
+
+ 
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 0px;
+}
+.reed{
+    color: red;
+}
+.img{
+width: 340px;
+height: 200px;
+}
+.imgg{
+    width: 326px;
+    height: 180px;
+}
+.pr{
+   
+
+    display: flex;
+    flex-wrap: wrap;
+}
+.img6{
+    width: 170px;
+    height: 80px;
+    margin-right: 5px;
+}
+.it{
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 30px;
+   
+}
+.itt{
+    font-size: 25px;
+    margin-left: 100px;
+}
+.vidio{
+   
+    width: 1000px;
+    height: auto;
+
+}
+.vidos{
+    display: flex;
+    flex-wrap: wrap;
+}
+.vid{
+    margin-right: 30px;
+    margin-top: 30px;
+}
+.carddd
+{
+   margin-left: 30px;
+
+}
+.lox{
+    margin-left: 50px;
+    margin-right: 50px;
+    display: flex;
+}
+.itt,hr{
+   
+    margin-left: 50px;
+    margin-right: 50px;
+    color: red;
+    
+}
+
+.nkar9{
+    margin-left: 100px;
+    margin-right: 50px;
+}
+.h5{
+    color: #fff;
+    width: 1000px;
+    height: auto;
+    background-color: #888;
+    opacity: 1;
+}
+.cnnn{
+    display: flex;
+    margin-top: 40px;
+}
+.sax{
+    background-color: #303030;
+}
+.fff{
+    color: #fff;
+}
+
+
+.search{
+    width: 100px;
+    height: auto;
+}
+.verj{
+    background-color: black;
+}
+.aa{
+    margin-left: 100px;
+    margin-right: 50px;
+}
+
+.avart{
+    margin-top: 20px;
+    
+    display: flex;
+}
+.carttt p{
+    margin-left: 100px;
+    
+
+}
+
+.eee{
+    color: #888;
+}
+.Cnn{
+    margin-left: 100px;
+}
+.pl{
+    text-align: end;
+}
+.prtav{
+    margin-left: 100px;
+    margin-right: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.l{
+    color: #fff;
+    margin-left: 10px;
+}
+
+
+
